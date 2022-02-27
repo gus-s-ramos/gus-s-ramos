@@ -3,7 +3,11 @@
 - 🔭 I’m currently studying software engineering
 - 🌱 I’m currently learning ionic and MIT APP inventor
 - 😄 Pronouns: He
-<div align="center">
+
+##
+
+
+<div align="left">
   <a href="https://github.com/gus-s-ramos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gus-s-ramos&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gus-s-ramos&layout=compact&langs_count=7&theme=nightowl"/>
